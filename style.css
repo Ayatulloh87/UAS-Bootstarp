@@ -1,0 +1,26 @@
+.jumbotron {
+    padding: 32px 16px;
+    background-color: rgb(159, 191, 191);
+}
+
+#profil {
+    height: 200px;
+    width: 200px;
+}
+
+.about {
+    padding: 32px 16px;
+    background-color: rgb(159, 191, 191);
+}
+
+.project {
+    margin-top: 15px;
+}
+
+.gallery {
+    margin-top: 15px;
+}
+
+.contact {
+    margin-top: 15px;
+}
